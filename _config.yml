@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "장우석"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Icheon_LG_Twins_BC_(2006).png"
   bio              : "행복한 컴퓨터교육 설계자"
   location         : "대한민국, 서울"
   email            : "jangws0928@naver.com"
